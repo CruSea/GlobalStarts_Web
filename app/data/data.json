@@ -1,0 +1,46 @@
+[
+  {
+    "ID":1,
+    "Title":"ይህ የመጀመሪያ ዜና ነው ",
+    "Author":"This is the author of this news",
+    "Content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonproident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "ImageURL":"images/image1.jpg",
+    "Category":"Entertainment",
+    "Views":2324,
+    "PubDate":"2016-11-23",
+    "IsLive":true
+  },
+  {
+    "ID":2,
+    "Title":"ይህ ደግሞ ሁለትኛ ዜና ነው",
+    "Author":"This is the author of this news",
+    "Content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonproident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "ImageURL":"images/image3.jpg",
+    "Category":"Entertainment",
+    "Views":199,
+    "PubDate":"2016-11-23",
+    "IsLive":false
+  },
+  {
+    "ID":3,
+    "Title":"This is the Title",
+    "Author":"This is the author of this news",
+    "Content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonproident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "ImageURL":"images/image1.jpg",
+    "Category":"Entertainment",
+    "Views":23,
+    "PubDate":"2016-11-23",
+    "IsLive":true
+  },
+  {
+    "ID":4,
+    "Title":"ረቡኒ የቅድስት ይልማ ፊልም ",
+    "Author":"This is the author of this news",
+    "Content":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonproident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "ImageURL":"images/image2.jpg",
+    "Category":"Entertainment",
+    "Views":323,
+    "PubDate":"2016-10-23",
+    "IsLive":false
+  }
+]

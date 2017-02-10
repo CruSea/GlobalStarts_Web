@@ -1,0 +1,38 @@
+[
+  {
+    "ID":1,
+    "CompanyName":"Coca-Cola",
+    "Title":"This is the author of this news",
+    "StartDate":"This is the author of this news",
+    "EndDate":"images/image1.jpg",
+    "ImageURL":"images/image2.jpg",
+    "Category":"Entertainment",
+    "Views":2324,
+    "PubDate":"2016-11-23",
+    "IsLive":true
+  },
+  {
+    "ID":1,
+    "CompanyName":"ይህ የመጀመሪያ ዜና ነው ",
+    "Title":"This is the author of this news",
+    "StartDate":"This is the author of this news",
+    "EndDate":"images/image1.jpg",
+    "ImageURL":"images/image1.jpg",
+    "Category":"Entertainment",
+    "Views":2324,
+    "PubDate":"2016-11-23",
+    "IsLive":false
+  },
+  {
+    "ID":1,
+    "CompanyName":"Zefmesh Grand Mall",
+    "Title":"This is the author of this news",
+    "StartDate":"This is the author of this news",
+    "EndDate":"images/image1.jpg",
+    "ImageURL":"images/image3.jpg",
+    "Category":"Entertainment",
+    "Views":2324,
+    "PubDate":"2016-11-23",
+    "IsLive":false
+  }
+]
